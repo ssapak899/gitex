@@ -1,0 +1,24 @@
+[Wed Jul 03 11:06:40.714171 2019] [core:warn] [pid 13712:tid 572] AH00111: Config variable ${SRVROOT} is not defined
+[Wed Jul 03 11:06:40.714171 2019] [core:warn] [pid 13712:tid 572] AH00111: Config variable ${SRVROOT} is not defined
+[Wed Jul 03 11:06:40.795951 2019] [mpm_winnt:notice] [pid 13712:tid 572] AH00455: Apache/2.4.39 (Win64) configured -- resuming normal operations
+[Wed Jul 03 11:06:40.795951 2019] [mpm_winnt:notice] [pid 13712:tid 572] AH00456: Apache Lounge VC15 Server built: Mar 28 2019 11:59:33
+[Wed Jul 03 11:06:40.795951 2019] [core:notice] [pid 13712:tid 572] AH00094: Command line: 'D:\\gitex\\Apache24\\bin\\httpd.exe -d D:/gitex/Apache24'
+[Wed Jul 03 11:06:40.802915 2019] [mpm_winnt:notice] [pid 13712:tid 572] AH00418: Parent: Created child process 13996
+[Wed Jul 03 11:06:41.175921 2019] [core:warn] [pid 13996:tid 500] AH00111: Config variable ${SRVROOT} is not defined
+[Wed Jul 03 11:06:41.175921 2019] [core:warn] [pid 13996:tid 500] AH00111: Config variable ${SRVROOT} is not defined
+[Wed Jul 03 11:06:41.236754 2019] [core:warn] [pid 13996:tid 500] AH00111: Config variable ${SRVROOT} is not defined
+[Wed Jul 03 11:06:41.236754 2019] [core:warn] [pid 13996:tid 500] AH00111: Config variable ${SRVROOT} is not defined
+[Wed Jul 03 11:06:41.283654 2019] [mpm_winnt:notice] [pid 13996:tid 500] AH00354: Child: Starting 64 worker threads.
+[Wed Jul 03 11:07:35.147389 2019] [mpm_winnt:notice] [pid 13712:tid 572] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Jul 03 11:07:41.782639 2019] [mpm_winnt:notice] [pid 13996:tid 500] AH00364: Child: All worker threads have exited.
+[Wed Jul 03 11:07:41.797598 2019] [mpm_winnt:notice] [pid 13712:tid 572] AH00430: Parent: Child process 13996 exited successfully.
+[Wed Jul 03 11:07:51.322140 2019] [core:warn] [pid 10508:tid 576] AH00111: Config variable ${SRVROOT} is not defined
+[Wed Jul 03 11:07:51.322140 2019] [core:warn] [pid 10508:tid 576] AH00111: Config variable ${SRVROOT} is not defined
+[Wed Jul 03 11:07:51.377970 2019] [mpm_winnt:notice] [pid 10508:tid 576] AH00455: Apache/2.4.39 (Win64) configured -- resuming normal operations
+[Wed Jul 03 11:07:51.377970 2019] [mpm_winnt:notice] [pid 10508:tid 576] AH00456: Apache Lounge VC15 Server built: Mar 28 2019 11:59:33
+[Wed Jul 03 11:07:51.377970 2019] [core:notice] [pid 10508:tid 576] AH00094: Command line: 'D:\\gitex\\Apache24\\bin\\httpd.exe -d D:/gitex/Apache24'
+[Wed Jul 03 11:07:51.380976 2019] [mpm_winnt:notice] [pid 10508:tid 576] AH00418: Parent: Created child process 4192
+[Wed Jul 03 11:07:51.745984 2019] [core:warn] [pid 4192:tid 496] AH00111: Config variable ${SRVROOT} is not defined
+[Wed Jul 03 11:07:51.746982 2019] [core:warn] [pid 4192:tid 496] AH00111: Config variable ${SRVROOT} is not defined
+[Wed Jul 03 11:07:51.809841 2019] [core:warn] [pid 4192:tid 496] AH00111: Config variable ${SRVROOT} is not defined
+[Wed Jul 03 11:07:51.809841 2019] [core:warn] [pid 4192:tid 496] AH00111: Config variable ${SRVROOT} is not defined
